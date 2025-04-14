@@ -1,0 +1,5 @@
+dist/
+build/
+env/
+.pytest_cache
+main.py
